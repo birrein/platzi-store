@@ -75,6 +75,7 @@
       "\\.(styl|css)$": "<rootDir>/src/__mocks__/styleMock.js"
     },
     "testEnvironment": "jsdom",
-    "verbose": true
+    "verbose": true,
+    "collectCoverage": true
   }
 }
